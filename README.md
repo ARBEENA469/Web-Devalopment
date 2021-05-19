@@ -1,2 +1,2 @@
-# Web-Devalopment
+# Web-Development
 The Sparks Foundation Internship
